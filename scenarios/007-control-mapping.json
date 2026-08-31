@@ -1,0 +1,7 @@
+{
+  "name": "control mapping",
+  "domain": "fintech",
+  "score_floor": 0.73,
+  "review_window_hours": 48,
+  "expected_action": "review"
+}
