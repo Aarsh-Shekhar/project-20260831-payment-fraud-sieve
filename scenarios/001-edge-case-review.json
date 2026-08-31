@@ -1,0 +1,7 @@
+{
+  "name": "edge case review",
+  "domain": "fintech",
+  "score_floor": 0.8,
+  "review_window_hours": 8,
+  "expected_action": "review"
+}
